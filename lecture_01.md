@@ -1,3 +1,6 @@
+# lecture_01
+
+
 ## Description:
   - Introduction to deep learning
   - History and cognitive basis of neural computation.
@@ -5,7 +8,7 @@
 
 
 ## Video:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VO5vKowfMOQ/0.jpg)](https://www.youtube.com/watch?v=VO5vKowfMOQ)
+[![lecture_01](https://img.youtube.com/vi/VO5vKowfMOQ/0.jpg)](https://www.youtube.com/watch?v=VO5vKowfMOQ)
 
 
 ## Slides:
