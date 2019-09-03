@@ -8,6 +8,8 @@
   [![Recitation 0B](https://img.youtube.com/vi/rNFkONjyL7A/0.jpg)](https://www.youtube.com/watch?v=rNFkONjyL7A)
   
   [Notebook (*.tar.gz)](http://deeplearning.cs.cmu.edu/document/recitation/recitation0b.tar.gz)
+  
+AUTOLAB link homework at http://dlcmu.datagym.ru
 ## Recitation 0C	NA	Fundamentals of Jupyter Notebook
   [![Recitation 0C](https://img.youtube.com/vi/ZZoJFGPbRI0/0.jpg)](https://www.youtube.com/watch?v=ZZoJFGPbRI0)
   
