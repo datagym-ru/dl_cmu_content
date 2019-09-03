@@ -11,6 +11,8 @@
   [Notebook (*.tar.gz)](http://deeplearning.cs.cmu.edu/document/recitation/recitation0b.tar.gz)
   
 AUTOLAB link homework at http://dlcmu.datagym.ru
+
+Data for HomeWork [Handout (*.tar.gz)](http://deeplearning.cs.cmu.edu/document/homework/homework0.tar.gz)
 ## Recitation 0C	NA	Fundamentals of Jupyter Notebook
   [![Recitation 0C](https://img.youtube.com/vi/ZZoJFGPbRI0/0.jpg)](https://www.youtube.com/watch?v=ZZoJFGPbRI0)
   
