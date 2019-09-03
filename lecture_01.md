@@ -1,5 +1,5 @@
 # lecture_01
-
+[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/cz6rsd/lecture_01_and_discussion/)
 
 ## Description:
   - Introduction to deep learning
