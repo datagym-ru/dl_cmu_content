@@ -1,4 +1,5 @@
 # preparatory
+[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/cz516q/preparatory_lectures_and_discussion/)
 
 ## Recitation 0A	NA	Fundamentals of Python
   [![Recitation 0A](https://img.youtube.com/vi/YdDgflXiIpc/0.jpg)](https://www.youtube.com/watch?v=YdDgflXiIpc)
