@@ -1,5 +1,5 @@
 # lecture_02
-[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/)
+[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/cz6wo0/lecture_02_and_discussion/)
 
 ## Description:
   - The neural net as a universal approximator
