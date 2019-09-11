@@ -1,5 +1,5 @@
 # lecture_04
-[Reddit discussion](https://www.reddit.com/r/IntroToDL/)
+[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/d2qg75/lecture_04_and_discussion/)
 
 ## Description:
   - Back propagation
