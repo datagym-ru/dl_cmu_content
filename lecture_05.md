@@ -1,5 +1,5 @@
 # lecture_05
-[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/)
+[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/d6tmz5/lecture_05_and_discussion/)
 
 ## Description:
   - Back propagation Continued
