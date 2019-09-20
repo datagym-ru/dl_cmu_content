@@ -1,5 +1,5 @@
 # lecture_06
-[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/)
+[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/d6tqnm/lecture_06_and_discussion/)
 
 ## Description:
   - Cognitive and Brain Science
