@@ -1,5 +1,5 @@
 # recitation_02
-[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/)
+[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/d6tzay/recitation_02_and_discussion/)
 
 ## Description:
   - Your First Deep Learning Code
