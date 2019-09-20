@@ -1,5 +1,5 @@
 # lecture_07
-[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/)
+[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/d6tv05/lecture_07_and_discussion/)
 
 ## Description:
   - Convergence in neural networks
