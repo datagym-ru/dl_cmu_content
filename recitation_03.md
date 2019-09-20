@@ -1,5 +1,5 @@
 # recitation_03
-[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/)
+[Reddit discussion](https://www.reddit.com/r/IntroToDL/comments/d6u3te/recitation_03_and_discussion/)
 
 ## Description:
   - Efficient Deep Learning and Optimization Methods
