@@ -10,3 +10,5 @@ Course content repository
 - [recitation_03](recitation_03.md)
 - [lecture 06](lecture_06.md)
 - [lecture 07](lecture_07.md)
+- [recitation_04](recitation_04.md)
+- [lecture 08](lecture_08.md)
